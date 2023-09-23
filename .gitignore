@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.idb
+
+# Dependency files
+*.d
+*.gcno
+*.gcda
+
+# Build directories
+bin/
+debug/
+obj/
+
+# Editor/IDE specific files
+.vscode/
+*.swp
+*~
